@@ -1,8 +1,8 @@
 const express = require('express');
+const app = express()
 const bodyParser = require('body-parser');
 const request = require('request');
-const app = express()
-const apiKey = '96c763e2a91557d9f467f023c481c078';
+const apiKey = "96c763e2a91557d9f467f023c481c078";
 const port = process.env.PORT || 3000;
 
 app.use(express.static('public'));
