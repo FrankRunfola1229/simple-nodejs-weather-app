@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"https://github.com/FrankRunfola1229/simple-nodejs-weather-app.git"
+    "url": "git"+"https://github.com/FrankRunfola1229/simple-nodejs-weather-app.git"
   },
   "author": "Frank Runfola",
   "license": "MIT",
