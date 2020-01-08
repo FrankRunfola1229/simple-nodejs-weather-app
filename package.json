@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
   "dependencies": {
+    "ejs": "^3.0.1",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "request": "^2.81.0"
