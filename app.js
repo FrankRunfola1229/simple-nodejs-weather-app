@@ -5,6 +5,8 @@ const request = require("request")
 const apiKey = process.env.MY_API_KEY
 const port = process.env.PORT || 3000
 
+console.log("****HELLO FROM LOGS****")
+
 // require and load dotenv
 require("dotenv").load()
 
