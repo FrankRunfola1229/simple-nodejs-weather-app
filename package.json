@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/FrankRunfola1229/simple-nodejs-weather-app.git#readme",
 	"dependencies": {
 		"body-parser": "^1.17.2",
+		"dotenv": "^8.2.0",
 		"ejs": "^3.0.1",
 		"express": "^4.15.3",
 		"request": "^2.81.0"
